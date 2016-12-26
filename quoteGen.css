@@ -1,0 +1,36 @@
+/* CSS for Quote Generation */
+
+body {
+    background-color: gray;
+    
+}
+
+
+h1, h2, h3, h4, h5, h6, p {
+    
+}
+
+
+div {
+    
+}
+
+
+.container-fluid {
+    margin-top: 80px;
+}
+
+.well {
+    padding-bottom: 40px;
+}
+
+
+#quote-p {
+    font-size: 200%;
+}
+
+.fa-quote-left {
+    font-size: 180%;
+}
+
+
